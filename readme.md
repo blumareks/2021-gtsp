@@ -11,8 +11,8 @@ As a developer use the resources - and examples - plenty of the examples are fre
   - https://developer.ibm.com/callforcode/get-started/climate-change/water-sustainability/
 - healthcare
   - https://medium.com/callforcode/keeping-front-line-medical-workers-top-of-mind-80aa1df18462
--  racial justice
-  -  https://github.com/Call-for-Code-for-Racial-Justice
+- racial justice
+  - https://github.com/Call-for-Code-for-Racial-Justice
 
 In addition you might find usefull the Call For Code resources:
  - https://developer.ibm.com/callforcode/get-started
