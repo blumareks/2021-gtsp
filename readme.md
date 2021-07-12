@@ -7,21 +7,19 @@ There are two main sources you might want to start with:
 ## IBM site for developers: developer.ibm.com
 As a developer use the resources - and examples - plenty of the examples are free of charge!
 
-- suistainable energy
-  - https://developer.ibm.com/tutorials/provision-a-couchdb-instance-using-cloudant-cfc-starter-kit-2/
-
-### Call for Code examples:
-- climate change
-  - https://developer.ibm.com/callforcode/get-started/climate-change/water-sustainability/
-- healthcare
-  - https://medium.com/callforcode/keeping-front-line-medical-workers-top-of-mind-80aa1df18462
-- racial justice
-  - https://github.com/Call-for-Code-for-Racial-Justice
+- Ensure access to affordable, reliable, sustainable and modern energy for all
+  - https://developer.ibm.com/conferences/c4cdc-take-on-climate-change/do-your-part-to-achieve-clean-energy/?mhsrc=ibmsearch_a&mhq=energy
+  - and a small example: https://developer.ibm.com/tutorials/provision-a-couchdb-instance-using-cloudant-cfc-starter-kit-2/
 
 In addition you might find usefull the Call For Code resources:
  - https://developer.ibm.com/callforcode/get-started
 
 We hope you would create something amazing! Good luck!
 
-## some examples:
-- SwiftUI and Serverless Hello World: https://link.medium.com/WtuuiG4XPhb 
+## Hello World!
+
+Saying Hello World from the cloud:
+- Serverless example with IBM Cloud Functions: https://link.medium.com/WtuuiG4XPhb (SwiftUI and Serverless Hello World)
+- No Code example with Node-RED flows
+
+
