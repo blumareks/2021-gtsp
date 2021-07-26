@@ -2,6 +2,20 @@
 
 This is the example flow:
 
+![node red flow example](flow.png)
+
+This is the flow, now you can connect it to the IBM Cloud Function (serverless):
+![node red flow and serverless hello world example](function-node-red.png)
+
+So you need to edit the Openwhisk node:
+![api key inside the Openwhisk node](function-api-key.png)
+
+And this is set up:
+![api key inside the Openwhisk node set](flow-function.png)
+
+And then you can wire it to the Cloudant DB:
+![result in the db](cloudant-insert.png)
+
 ```
 [
     {
