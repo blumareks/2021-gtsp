@@ -20,6 +20,6 @@ We hope you would create something amazing! Good luck!
 
 Saying Hello World from the cloud:
 - Serverless example with IBM Cloud Functions: https://link.medium.com/WtuuiG4XPhb (SwiftUI and Serverless Hello World)
-- No Code example with Node-RED flows
+- No Code example with [Node-RED flows](node-red-example.md)
 
 
